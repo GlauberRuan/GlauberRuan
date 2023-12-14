@@ -1,5 +1,5 @@
-<h1 align="center">Oi👋, Eu sou o Glauber</h1>
-<h3 align="center">Um Engenheiro de Produção apaixonado por Tecnologia</h3>
+<p align="center">
+  <img src="https://github.com/GlauberRuan/GlauberRuan/raw/main/assets/header-github.gif" alt="Oi, eu sou o Glauber">
 
 
 - 🔭 Atualmente estou trabalhando **no Sistema FIEPE**
