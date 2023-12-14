@@ -11,7 +11,7 @@
 - ⚡ Curiosidades sobre mim **Tenho 4 gatinhos 🐈🐈🐈🐈 e amo andar de bike 🚲**
 
 <br><br>
-![c633c20ede82f0e0ced7d570dbe3a1f3]([https://raw.githubusercontent.com/alexklenio/alexklenio/main/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376))
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
 <br><br>
 
 <h3 align="left">Alumas Linguagens e Ferramentas que eu uso:</h3>
