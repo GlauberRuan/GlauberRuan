@@ -2,8 +2,8 @@
   <img src="https://github.com/GlauberRuan/GlauberRuan/raw/main/assets/header-github.gif" alt="Oi, eu sou o Glauber">
 
 
-- 🔭 Atualmente estou trabalhando **no Sistema FIEPE**
-- 🌱 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas no IFPE, Desenvolvimento Backend na SOFTEX - PE e Desenvolvimento web com PHP no SENAC - PE.**
+- 🔭 Atualmente estou trabalhando como Analista de Processos **no Sistema FIEPE**
+- 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas no IFPE, Desenvolvimento Backend na SOFTEX - PE e Desenvolvimento web com PHP no SENAC - PE.**
 - 👯 Eu procuro colaborar em **projetos de Desenvolvimento (backend e frontend)**
 - 💬 Me pergunte sobre **Tecnologia, rotinas de estudo, etc.**
 - 📫 Fale comigo **engpontodev@gmail.com**
